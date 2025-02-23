@@ -1,0 +1,8 @@
+Esto es un enlace debil al directorio original que está en /home/josema/Arduino/Duokopt
+:
+Comandos del VI
+esc a para añadir texto
+de nuevo esc y : con w para grabar
+q para salir
+para cambiar de edicion a comando pulsar esc
+
